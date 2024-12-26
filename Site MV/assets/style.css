@@ -1,0 +1,16 @@
+:root {
+
+}
+
+body {
+    background-color: blanchedalmond;
+    color: rgb(97, 50, 16);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    background-color: rgb(255, 203, 124);
+    height: 100px;
+    text-align: center;
+}
+
